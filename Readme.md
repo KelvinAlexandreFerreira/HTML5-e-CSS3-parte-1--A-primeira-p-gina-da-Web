@@ -5,3 +5,5 @@ Um reforço aos estilos inline e block
 Como transformar o texto para ter todas as letras maiúsculas
 Como deixar o texto em negrito com CSS
 Como remover a decoração do texto
+
+Limpando o CSS: https://meyerweb.com/eric/tools/css/reset/
