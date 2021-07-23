@@ -7,3 +7,9 @@ Como deixar o texto em negrito com CSS
 Como remover a decoração do texto
 
 Limpando o CSS: https://meyerweb.com/eric/tools/css/reset/
+
+Nesta aula, aprendemos:
+
+Como remover os estilos que o navegador cria automaticamente
+Como funciona os posicionamentos static, relative e absolute dos elementos
+Como posicionar o cabeçalho da nossa página
