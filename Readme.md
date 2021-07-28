@@ -29,3 +29,5 @@ active, quando um elemento está sendo ativado pelo usuário
 A mudar a cor do texto e/ou da borda de um elemento, quando o usuário passar o cursor sobre o mesmo
 A mudar a cor da borda de um elemento, quando o mesmo estiver sendo ativado pelo usuário
 
+Site para descobrir os códigos inicode:
+https://unicode-table.com/en/
