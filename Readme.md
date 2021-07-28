@@ -21,3 +21,11 @@ A criar listas complexas, com títulos, imagens e parágrafos
 A utilizar o inline-block
 A praticar e estilizar o conteúdo principal da nossa página
 
+Nesta aula, aprendemos:
+
+Algumas pseudo-classes CSS
+hover, quando o usuário passa o cursor sobre o elemento
+active, quando um elemento está sendo ativado pelo usuário
+A mudar a cor do texto e/ou da borda de um elemento, quando o usuário passar o cursor sobre o mesmo
+A mudar a cor da borda de um elemento, quando o mesmo estiver sendo ativado pelo usuário
+
