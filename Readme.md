@@ -38,3 +38,15 @@ A tag footer, para o rodapé da nossa página
 Que, com CSS, podemos colocar uma imagem de fundo em um elemento
 Quando colocamos uma imagem de fundo em um elemento, o CSS, por padrão, copia e cola a imagem diversas vezes até ocupar todo o espaço do elemento
 A tabela Unicode
+
+Nesta aula, aprendemos:
+
+A criar um formulário HTML
+A tag que o representa é a <form>
+A tag <input>, para a entrada de dados do usuário
+A criar uma etiqueta para o input, com a tag <label>
+A conectar um input com o seu label
+Colocamos um id para o input e associamos esse id ao atributo for do label
+Alguns tipos de input, como text e submit
+Que label e input por padrão possuem o display inline
+A estilizar o nosso formulário
