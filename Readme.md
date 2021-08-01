@@ -75,3 +75,6 @@ Que podemos criar um input dentro de um label, assim associando-os
 Mais estilizações para a nossa página
 Como funciona a hierarquia no CSS
 O select, que é seletor, um campo de seleção de um item, e o option, que representa cada opção do seletor
+
+Inputs para celulares
+http://mobileinputtypes.com/
