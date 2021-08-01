@@ -50,3 +50,17 @@ Colocamos um id para o input e associamos esse id ao atributo for do label
 Alguns tipos de input, como text e submit
 Que label e input por padrão possuem o display inline
 A estilizar o nosso formulário
+
+Hierarquia no CSS
+Peso de cada hierarquia do CSS:
+tag    -> 1
+class  -> 10
+id     -> 100
+inline -> 1000
+
+Os valores de peso podem ser somados, ex:
+p       -> 1
+form p  -> 2
+.teste  -> 10
+p.teste -> 11
+#teste  -> 100
