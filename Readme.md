@@ -108,3 +108,7 @@ A tag tbody, que representa o corpo da tabela
 A tag th, que representa a célula do cabeçalho da tabela
 A tag tfoot, que representa o rodapé da tabela
 A estilizar a tabela
+
+
+Curso de
+HTML5 e CSS3 parte 4: Avançando no CSS
