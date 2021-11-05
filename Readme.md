@@ -112,3 +112,10 @@ A estilizar a tabela
 
 Curso de
 HTML5 e CSS3 parte 4: Avançando no CSS
+
+Nesta aula, aprendemos:
+
+1. A ajustar a página principal para utilizar os mesmos padrões da página de produtos
+Medidas proporcionais com CSS
+2. Como funciona a flutuação dos elementos e como modificá-la, com a propriedade float do CSS
+3. Como limpar o float, com a propriedade clear do CSS
