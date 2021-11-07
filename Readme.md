@@ -119,3 +119,10 @@ Nesta aula, aprendemos:
 Medidas proporcionais com CSS
 2. Como funciona a flutuação dos elementos e como modificá-la, com a propriedade float do CSS
 3. Como limpar o float, com a propriedade clear do CSS
+
+
+Nesta aula, aprendemos:
+
+1. A utilizar fontes externas nas nossas páginas
+2. Como incorporar um mapa à nossa página
+3. Como incorporar um vídeo à nossa página
