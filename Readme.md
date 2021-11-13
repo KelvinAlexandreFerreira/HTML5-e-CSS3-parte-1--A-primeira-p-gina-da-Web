@@ -126,3 +126,10 @@ Nesta aula, aprendemos:
 1. A utilizar fontes externas nas nossas páginas
 2. Como incorporar um mapa à nossa página
 3. Como incorporar um vídeo à nossa página
+
+Nesta aula, aprendemos:
+
+1. A melhorar mais ainda a semântica da página principal, com novas divisões, classes, etc
+2. Novas pseudo-classes
+3. Como aplicar um background gradiente na página
+4. Pseudo-elementos
