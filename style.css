@@ -236,3 +236,19 @@ td, th {
     width: 500px;
     margin: 2em auto;
 }
+
+main > p {
+    background: red;
+}
+
+main + p {
+    background: blue;
+}
+
+img ~ p {
+    background: yellow;
+}
+
+.principal p:not(#missao){
+    background: orange;
+}
