@@ -158,3 +158,10 @@ main p:not(#missao) {
 }
 ```
 2. Como fazer contas com CSS, com a propriedade calc
+
+# Nesta aula, aprendemos:
+
+1. Como manipular a opacidade dos elementos, com a propriedade CSS opacity
+2. Como manipular a opacidade das cores
+3. Como adicionar um sombreamento em volta dos elementos, com a propriedade CSS box-shadow
+4. Como adicionar um sombreamento em textos, com a propriedade CSS text-shadow
