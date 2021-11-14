@@ -243,3 +243,9 @@ td, th {
     width: 500px;
     margin: 2em auto;
 }
+
+@media screen and (max-width: 480px) {
+    body {
+        background: red;
+    }
+}
