@@ -165,3 +165,9 @@ main p:not(#missao) {
 2. Como manipular a opacidade das cores
 3. Como adicionar um sombreamento em volta dos elementos, com a propriedade CSS box-shadow
 4. Como adicionar um sombreamento em textos, com a propriedade CSS text-shadow
+
+# Nesta aula, aprendemos:
+
+1. Design responsivo: como ajustar o estilo da nossa página de acordo com o tamanho da tela do dispositivo que a acesse
+2. Meta tag de Viewport
+3. Media Queries
